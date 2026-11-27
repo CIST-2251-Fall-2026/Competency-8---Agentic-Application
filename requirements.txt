@@ -1,0 +1,4 @@
+ollama
+pydantic
+requests
+mcp==1.30.0
